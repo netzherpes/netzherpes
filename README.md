@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @netzherpes
 
-Nothing. Absolutely nothing to see here, sorry.
+Mostly KIM-I programs
 
 website: https://netzherpes.de
 
